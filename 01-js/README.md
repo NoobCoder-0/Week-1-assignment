@@ -5,7 +5,7 @@ You have to follow the instructions given in each file and write the code in the
 If you have more questions please ping TAs
 
 ### Assignments
-Feel free to start doing these in any order you like.
+Feel free to start doing these in any order you like....
 1. Easy
    1. Anagram
    2. Expenditure Analysis
